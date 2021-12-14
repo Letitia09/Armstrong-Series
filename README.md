@@ -11,12 +11,11 @@ Armstrong number is a number that is equal to the sum of cubes of its digits. Fo
 
 <p>For example:</p>
 <pre>
-Test	Input	Result
-Test Case 1          Input         Output
-                      100          Armstrong series:
-                      1000         153
-                                   370
-                                   371
-                                   407
-                                   </pre>
+Test	       Input	     Result
+Test Case 1   100      Armstrong series:
+              1000         153
+                           370
+                           371
+                           407
+</pre>
 
